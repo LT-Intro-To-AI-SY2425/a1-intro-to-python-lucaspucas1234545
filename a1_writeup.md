@@ -22,4 +22,4 @@ Some similarities that I've noticed so far is that some functions need return st
 
 3. What are some things that you learned through this assignment?
 
-A few things that I learnt how to do through this assignment is how to write a for loop and an if statement in python. 
+A few things that I learnt how to do through this assignment is how to write a for loop and an if statement in python. I also learnt about how useful assertions can be when trying to test your code. 
